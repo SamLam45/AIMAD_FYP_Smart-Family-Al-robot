@@ -23,7 +23,14 @@ This project demonstrates strong system integration skills, combining **Mobile D
 
 This project was successfully exhibited at the HKIIT (Member of VTC Group) Final Year Project exhibition, demonstrating a complete, working IoT hardware and software ecosystem.
 
-**Watch the demo video:** [YouTube](https://youtu.be/1VcXs4ew0ks)
+<p align="center">
+  <a href="https://youtu.be/1VcXs4ew0ks">
+    <img src="https://img.youtube.com/vi/1VcXs4ew0ks/hqdefault.jpg" alt="LAADR Demo Video" width="640"/>
+  </a>
+</p>
+<p align="center">
+  <em>Click to watch the live demo on YouTube.</em>
+</p>
 
 <p align="center">
   <img src="potote.webp" alt="HKIIT FYP Exhibition Booth" width="800"/>
