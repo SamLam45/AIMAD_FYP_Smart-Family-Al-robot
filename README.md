@@ -19,9 +19,11 @@ This project demonstrates strong system integration skills, combining **Mobile D
 
 ---
 
-## � Exhibition & Live Demo
+## 🎬 Exhibition & Live Demo
 
 This project was successfully exhibited at the HKIIT (Member of VTC Group) Final Year Project exhibition, demonstrating a complete, working IoT hardware and software ecosystem.
+
+**Watch the demo video:** [YouTube](https://youtu.be/1VcXs4ew0ks)
 
 <p align="center">
   <img src="potote.webp" alt="HKIIT FYP Exhibition Booth" width="800"/>
@@ -32,7 +34,7 @@ This project was successfully exhibited at the HKIIT (Member of VTC Group) Final
 
 ---
 
-## �🌟 Core Functionalities & System Architecture
+## 🌟 Core Functionalities & System Architecture
 
 ### 📱 Mobile Application (`lib/` - Flutter)
 The mobile app acts as the caregiver's control center and the primary interface for remote management.
