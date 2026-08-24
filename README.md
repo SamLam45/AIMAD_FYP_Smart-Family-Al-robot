@@ -1,4 +1,4 @@
-# 👵🏻 Elderly Care Edge Assistant (LAADR)
+# 👵🏻Smart Family Al robot (LAADR)
 
 > **🏆 Award-Winning Final Year Project (Higher Diploma)**
 > *Awarded Merit/Excellent Award (IT Category) at the YEUNG Kin-man Industrial Training Scheme Competition.*
